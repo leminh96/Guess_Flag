@@ -1,0 +1,11 @@
+﻿  stdafx.cpp
+  Guess_Flag.cpp
+Guess_Flag.cpp(198): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+Guess_Flag.cpp(303): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+Guess_Flag.cpp(328): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+Guess_Flag.cpp(445): warning C4154: deletion of an array expression; conversion to pointer supplied
+  Generating code
+  All 108 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Guess_Flag.vcxproj -> E:\Projects\Win32 Project\Guess Flag\Release\Guess_Flag.exe
+  Guess_Flag.vcxproj -> E:\Projects\Win32 Project\Guess Flag\Release\Guess_Flag.pdb (Full PDB)
